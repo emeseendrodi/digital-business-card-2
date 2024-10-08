@@ -1,0 +1,60 @@
+body{
+  margin: 0;
+  background-color: #32353f;
+  font-family: "Montserrat", sans-serif;
+  color: #F5F5F5;
+}
+.container{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0px auto;
+  text-align: center;
+  width: 400px;
+  border-radius: 20px;
+  background-color: #1A1B21;
+  border: none;
+ 
+}
+
+.profile-img{
+  border-radius: 8px;
+}
+
+main h3{
+  color: #F3BF99;
+}
+
+button{
+  padding: 10px 30px;
+  font-size: larger;
+  font-weight: 600;
+  border-radius: 8px ;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.linkedin-btn{
+  background-color: #5093E2;
+  color: white;
+}
+
+.info-container{
+  text-align: start;
+  padding: 0px 30px;
+ 
+}
+
+footer{
+  display: flex;
+  padding: 20px 60px;
+  
+  justify-content: space-around;
+  background-color: #161619;
+  border-radius: 20px;
+}
+
+.img{
+  width: 40px;
+}
